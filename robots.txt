@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /
+
+
+Sitemap: http://galina-bogorodetskaya.tilda.ws/sitemap.xml
+Host: galina-bogorodetskaya.tilda.ws
